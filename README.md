@@ -1,5 +1,5 @@
 # Social network diffusion
-
+## Brief introduction:
 ## prior works:
 
 - 2006 Gueorgi Kossinets and Duncan J. Watts
