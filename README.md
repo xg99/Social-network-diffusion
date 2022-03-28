@@ -1,5 +1,6 @@
 # Social network diffusion
 ## Brief introduction:
+In this project, we are going to find the correlations between consolidation and some outcomes(inequality, diffusion).
 ## prior works:
 
 - 2006 Gueorgi Kossinets and Duncan J. Watts
