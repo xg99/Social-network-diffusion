@@ -26,5 +26,5 @@ In this project, we are going to find the correlations between consolidation and
 ## Assumptions:
 
 ## Work context:
-- Replicate $Centola$ model.
+- Replicate ***Centola*** model.
 - Change the parameters to see the different outcomes.
