@@ -24,7 +24,7 @@ In this project, we are going to find the correlations between consolidation and
   https://journals.sagepub.com/doi/10.1177/00491241211014237
 
 ## Assumptions:
-- $$P(y) = c·e^(-$\beta$y)$$
+- P(y) = c·e^(-βy)
 ## Work context:
 - Replicate ***Centola*** model.
 - Change the parameters to see the different outcomes.
