@@ -22,3 +22,9 @@ In this project, we are going to find the correlations between consolidation and
 - 2021 Linda Zhao
   Network Diffusion Under Homophily and Consolidation as a Mechanism for Social Inequality
   https://journals.sagepub.com/doi/10.1177/00491241211014237
+
+## Assumptions:
+
+## Work context:
+- Replicate $Centola$ model.
+- Change the parameters to see the different outcomes.
